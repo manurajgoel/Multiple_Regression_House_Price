@@ -1,5 +1,3 @@
-# Multiple_Regression_House_Price
-
 # Multiple Linear Regression: House Price Prediction
 
 ## Project Overview
